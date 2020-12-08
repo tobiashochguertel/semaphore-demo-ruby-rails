@@ -3,6 +3,8 @@
 This is an example application and CI/CD pipeline showing how to run a Ruby on
 Rails project on Semaphore 2.0.
 
+
+
 ## Local application setup
 
 Ruby version is specified in `.ruby-version`. We recommend using rbenv.
